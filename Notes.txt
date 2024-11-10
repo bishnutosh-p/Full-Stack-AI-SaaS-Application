@@ -3,3 +3,6 @@ Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stri
 JSM
 
 https://www.youtube.com/watch?v=Ahwoks_dawU
+
+
+T = 9min 55sec
